@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.Xbiom.testdatadriverscript.TestDataDriverScript]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.Xbiom.testdatadriverscript.TestDataDriverScript">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="testLogin" invocation-numbers="4 5 6 7 8 9 10 11 12 13 14 15 16 17"/>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.Xbiom.testdatadriverscript.TestDataDriverScript -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.Xbiom.testdatadriverscript.TestDataDriverScript] -->
